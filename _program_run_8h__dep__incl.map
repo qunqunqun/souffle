@@ -1,0 +1,12 @@
+<map id="profile/ProgramRun.h" name="profile/ProgramRun.h">
+<area shape="rect" id="node2" href="$_ast_profile_use_8cpp.html" title="ast/analysis/AstProfileUse.cpp" alt="" coords="242,162,461,189"/>
+<area shape="rect" id="node3" href="$_ast_profile_use_8h.html" title="ast/analysis/AstProfileUse.h" alt="" coords="111,80,314,107"/>
+<area shape="rect" id="node5" href="$_output_processor_8h.html" title="profile/OutputProcessor.h" alt="" coords="536,80,721,107"/>
+<area shape="rect" id="node11" href="$_reader_8h.html" title="profile/Reader.h" alt="" coords="389,80,511,107"/>
+<area shape="rect" id="node4" href="$_reorder_literals_transformer_8cpp.html" title="ast/transform/ReorderLiterals\lTransformer.cpp" alt="" coords="5,155,217,196"/>
+<area shape="rect" id="node6" href="$_html_generator_8h.html" title="profile/HtmlGenerator.h" alt="" coords="587,162,761,189"/>
+<area shape="rect" id="node7" href="$_tui_8h.html" title="profile/Tui.h" alt="" coords="500,244,597,271"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title="main.cpp" alt="" coords="451,319,534,345"/>
+<area shape="rect" id="node9" href="$_cli_8h.html" title="profile/Cli.h" alt="" coords="558,319,654,345"/>
+<area shape="rect" id="node10" href="$souffle__prof_8cpp.html" title="souffle_prof.cpp" alt="" coords="543,393,669,420"/>
+</map>

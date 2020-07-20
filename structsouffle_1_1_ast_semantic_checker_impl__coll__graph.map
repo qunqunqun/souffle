@@ -1,0 +1,18 @@
+<map id="souffle::AstSemanticCheckerImpl" name="souffle::AstSemanticCheckerImpl">
+<area shape="rect" id="node2" href="$classsouffle_1_1_recursive_clauses.html" title="Analysis pass identifying clauses which are recursive. " alt="" coords="1133,821,1321,957"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="984,439,1135,575"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_precedence_graph.html" title="Analysis pass computing the precedence graph of the relations of the datalog progam. " alt="" coords="869,829,1057,950"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_s_c_c_graph.html" title="Analysis pass computing the strongly connected component (SCC) graph for the datalog program..." alt="" coords="550,1145,811,1442"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_i_o_type.html" title="{souffle::IOType\n||+ IOType()\l+ isInput()\l+ isIO()\l+ isOutput()\l+ isPrintSize()\l+ print()\l+ run()\l}" alt="" coords="16,807,135,972"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_type_environment_analysis.html" title="{souffle::TypeEnvironment\lAnalysis\n||+ getPrimitiveTypesInUnion()\l+ getTypeEnvironment()\l+ isCyclic()\l+ print()\l+ run()\l+ TypeEnvironmentAnalysis()\l&#45; createType()\l}" alt="" coords="1605,1203,1820,1383"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_graph.html" title="{souffle::Graph\&lt; const\l souffle::AstRelation\l *, souffle::AstNameComparison \&gt;\n||+ clique()\l+ contains()\l+ contains()\l+ insert()\l+ insert()\l+ predecessors()\l+ print()\l+ reaches()\l+ successors()\l+ vertices()\l+ visitDepthFirst()\l&#45; visitDepthFirst()\l}" alt="" coords="713,373,960,641"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_error_report.html" title="{souffle::ErrorReport\n||+ addDiagnostic()\l+ addError()\l+ addWarning()\l+ ErrorReport()\l+ ErrorReport()\l+ exitIfErrors()\l+ getNumErrors()\l+ getNumIssues()\l+ getNumWarnings()\l+ print()\l}" alt="" coords="2264,785,2423,994"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ast_translation_unit.html" title="AstTranslationUnit class. " alt="" coords="2429,1189,2623,1398"/>
+<area shape="rect" id="node38" href="$structsouffle_1_1_type_set.html" title="A collection to represent sets of types. " alt="" coords="1882,388,2007,627"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_program.html" title="Intermediate representation of a datalog program that consists of relations, clauses and types..." alt="" coords="3807,1123,4039,1464"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="3697,770,3840,1009"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="3694,447,3843,568"/>
+<area shape="rect" id="node24" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="3801,167,3950,289"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_type_environment.html" title="A type environment is a set of types. " alt="" coords="2021,733,2239,1045"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1_debug_report.html" title="Class representing a HTML report, consisting of a list of sections. " alt="" coords="2629,785,2788,994"/>
+</map>

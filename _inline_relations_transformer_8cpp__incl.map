@@ -1,0 +1,34 @@
+<map id="ast/transform/InlineRelationsTransformer.cpp" name="ast/transform/InlineRelationsTransformer.cpp">
+<area shape="rect" id="node2" href="$_aggregate_op_8h.html" title="AggregateOp.h" alt="" coords="2859,468,2978,495"/>
+<area shape="rect" id="node6" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="2595,543,2723,569"/>
+<area shape="rect" id="node12" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="2413,468,2581,495"/>
+<area shape="rect" id="node15" href="$_functor_ops_8h.html" title="FunctorOps.h" alt="" coords="3003,468,3109,495"/>
+<area shape="rect" id="node16" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="6827,468,6936,495"/>
+<area shape="rect" id="node17" href="$_ast_abstract_8h.html" title="ast/AstAbstract.h" alt="" coords="3989,468,4123,495"/>
+<area shape="rect" id="node18" href="$_ast_node_8h.html" title="ast/AstNode.h" alt="" coords="4455,543,4569,569"/>
+<area shape="rect" id="node26" href="$_ast_argument_8h.html" title="ast/AstArgument.h" alt="" coords="3878,393,4021,420"/>
+<area shape="rect" id="node27" href="$_ast_qualified_name_8h.html" title="ast/AstQualifiedName.h" alt="" coords="5816,543,5992,569"/>
+<area shape="rect" id="node32" href="$_ast_clause_8h.html" title="ast/AstClause.h" alt="" coords="4261,319,4384,345"/>
+<area shape="rect" id="node33" href="$_ast_literal_8h.html" title="ast/AstLiteral.h" alt="" coords="3336,393,3456,420"/>
+<area shape="rect" id="node34" href="$_ast_program_8h.html" title="ast/AstProgram.h" alt="" coords="4793,169,4927,196"/>
+<area shape="rect" id="node37" href="$_ast_relation_8h.html" title="ast/AstRelation.h" alt="" coords="5187,393,5319,420"/>
+<area shape="rect" id="node42" href="$_ast_utils_8h.html" title="ast/AstUtils.h" alt="" coords="3051,393,3160,420"/>
+<area shape="rect" id="node43" href="$_ast_translation_unit_8h.html" title="ast/AstTranslationUnit.h" alt="" coords="7841,95,8018,121"/>
+<area shape="rect" id="node48" href="$_ast_visitor_8h.html" title="ast/AstVisitor.h" alt="" coords="3687,95,3807,121"/>
+<area shape="rect" id="node50" href="$_ast_transforms_8h.html" title="ast/transform/AstTransforms.h" alt="" coords="1867,468,2085,495"/>
+<area shape="rect" id="node3" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="2747,543,2848,569"/>
+<area shape="rect" id="node19" href="$_src_location_8h.html" title="SrcLocation.h" alt="" coords="6253,617,6363,644"/>
+<area shape="rect" id="node20" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1512,617,1675,644"/>
+<area shape="rect" id="node28" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="5157,617,5304,644"/>
+<area shape="rect" id="node35" href="$_ast_component_8h.html" title="ast/AstComponent.h" alt="" coords="4580,244,4735,271"/>
+<area shape="rect" id="node36" href="$_ast_i_o_8h.html" title="ast/AstIO.h" alt="" coords="6507,468,6599,495"/>
+<area shape="rect" id="node39" href="$_ast_type_8h.html" title="ast/AstType.h" alt="" coords="3692,393,3801,420"/>
+<area shape="rect" id="node40" href="$_ast_functor_declaration_8h.html" title="ast/AstFunctorDeclaration.h" alt="" coords="4854,468,5055,495"/>
+<area shape="rect" id="node41" href="$_ast_pragma_8h.html" title="ast/AstPragma.h" alt="" coords="7011,468,7141,495"/>
+<area shape="rect" id="node38" href="$_ast_attribute_8h.html" title="ast/AstAttribute.h" alt="" coords="6093,468,6229,495"/>
+<area shape="rect" id="node44" href="$_debug_report_8h.html" title="DebugReport.h" alt="" coords="7139,617,7258,644"/>
+<area shape="rect" id="node45" href="$_global_8h.html" title="Global.h" alt="" coords="7283,543,7359,569"/>
+<area shape="rect" id="node46" href="$_ast_analysis_8h.html" title="ast/analysis/AstAnalysis.h" alt="" coords="7981,617,8173,644"/>
+<area shape="rect" id="node47" href="$_precedence_graph_8h.html" title="ast/analysis/PrecedenceGraph.h" alt="" coords="5942,319,6173,345"/>
+<area shape="rect" id="node49" href="$_functional_util_8h.html" title="utility/FunctionalUtil.h" alt="" coords="556,244,721,271"/>
+</map>

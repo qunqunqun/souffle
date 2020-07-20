@@ -1,0 +1,7 @@
+<map id="souffle::FoldAnonymousRecords::transformClause" name="souffle::FoldAnonymousRecords::transformClause">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1f1bffe224fa3568552e95368ece1701" title="souffle::clone" alt="" coords="330,5,439,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="315,57,454,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="get binary operator " alt="" coords="283,122,487,163"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="301,188,469,215"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="535,64,681,91"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="souffle::TypeChecker::visitAtom" name="souffle::TypeChecker::visitAtom">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="231,5,377,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="809,114,920,141"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="223,274,385,301"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="get arguments " alt="" coords="749,317,980,343"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="213,375,395,402"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_type_environment.html#ada544cc106c8c80c9120e2c1d1424ebf" title="souffle::TypeEnvironment\l::getType" alt="" coords="211,427,397,468"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_type_analysis.html#ae54c7f752529cbe534c2cc52944c7768" title="Get the computed types for the given argument. " alt="" coords="225,492,383,533"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#a8cc19c66d9d13ce64e65f14dcabb43b3" title="Determines whether type a is a subtype of type b. " alt="" coords="227,223,381,250"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_type_environment.html#a5ead83575e9abfebb3a0b180a33a7d96" title="souffle::TypeEnvironment\l::isType" alt="" coords="211,557,397,599"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="473,5,673,47"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1028,346,1175,373"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_atom.html#a2fcd569fa7d8ed8c0c2dfd0d1c362e50" title="get qualified name " alt="" coords="445,426,701,453"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#ada252aa15afbf7d703a11b000dfd4048" title="Returns the relation with the given name in the program. " alt="" coords="499,375,647,402"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="813,434,917,461"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_program.html#a71fb3c28c3a105637c22cbe6a9fb63ef" title="get relations " alt="" coords="789,368,940,409"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_type_analysis.html#a353dd3e674e73c89e7d2c7434f03fc3e" title="Analyse the given clause and computes for each contained argument a set of potential types..." alt="" coords="494,492,653,533"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_constraint_analysis.html#af22129c80f7cc902684a64c94887f3dd" title="Runs this constraint analysis on the given clause. " alt="" coords="756,492,973,533"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="514,223,633,250"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="450,274,697,301"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#a56f7e0bb6f22aecf27c01b2365d4316f" title="Determines whether the given type is a sub&#45;type of the given root type. " alt="" coords="494,173,653,199"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_subset_type.html#ac5c52e503cbce42370d6ada3f050773d" title="souffle::SubsetType\l::getBaseType" alt="" coords="791,165,939,207"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_union_type.html#a0175bce933a70c1d3691114860ac17fc" title="souffle::UnionType\l::getElementTypes" alt="" coords="793,231,936,272"/>
+</map>
